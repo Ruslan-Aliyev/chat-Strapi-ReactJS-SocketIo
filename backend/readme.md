@@ -8,7 +8,7 @@
 
 # Made by
 
-`npm create vite` > React
+`npx create-strapi-app@4.20.4 backend --quickstart`
 
 # Documentation
 
